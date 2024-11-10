@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,36 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.heading-container{
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;
+}
+
+.typewriter-text{
+  font-size: 50px;
+  color: white;
+  font-family: monospace;  
+}
+
+
+.apps-container{
+  height: 200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 20%;
+  align-content: space-between;
+  border: 2px solid red;
+}
+.cal-heading{
+  color: white;
+  font-size: 30px;
 }

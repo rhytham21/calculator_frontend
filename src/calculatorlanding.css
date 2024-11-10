@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.calculator-landing{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.calculator-container{
+    margin-top: 50px;
+    border: 1px solid red;
+}
+
+.app-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid blue;
+}
+
+.app-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid greenyellow;
+}
+
+.heading{
+    color: white;
+}
+
+.color-schema-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid purple;
+}
+
+.app-text{
+    color: white;
+}

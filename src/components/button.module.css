@@ -1,0 +1,70 @@
+.orangeCircleButton{
+    width: 72px;
+    height: 72px;
+    background-color: #FF9500;
+    border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.blackCircleButton{
+    width: 72px;
+    height: 72px;
+    background-color: #505050;
+    border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.greyCircleButton{
+    width: 72px;
+    height: 72px;
+    background-color: #D4D4D2;
+    border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.greyButtonText{
+    font-size: 27px;
+    color: #1c1c1c;
+}
+
+.rectangleButton{
+    width: 124px;
+    height: 72px;
+    background-color: #505050;
+    border-radius: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    cursor: pointer;
+    padding-left: 20px;
+
+}
+
+.longButton{
+    width: 216px;
+    height: 72px;
+    background-color: #6e6e6e;
+    border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+
+.buttonText{
+    font-size: 27px;
+    color: white;
+}
